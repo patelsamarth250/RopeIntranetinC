@@ -1,4 +1,5 @@
 # RopeIntranetinC
+# Rope Intranet in C language
 Here is the Complete solution in C, of a coding problem "Rope Intranet", which was asked in Code Jam 2010.
 
 Problem
